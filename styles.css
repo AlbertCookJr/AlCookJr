@@ -44,9 +44,6 @@ body {
 }
 
 
-
-
-
 p{
   line-height: 2;
 }
@@ -68,8 +65,9 @@ hr{
   text-align: left;
 }
 .skill-image1{
-  width: 50%;
+  width: 25%;
   float: left;
+  padding-right: 30px;
 }
 .skill-image2{
   width: 25%;
@@ -332,3 +330,4 @@ a:hover{
     font-size: 5px;
   }
 }
+
